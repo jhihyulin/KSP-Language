@@ -11,12 +11,10 @@ Kerbal Space Program 的多語言包
 ## 安裝
 1. 先取得遊戲的安裝路徑，詳見[遊戲安裝路徑](#遊戲安裝路徑)。
 2. 將下載的`KSP-Language.zip`檔案解壓縮，再將`KSP-Language`資料夾中的`dictionary.cfg`複製到`{遊戲安裝路徑}/English/GameData/Squad/Localization`取代原先的`dictionary.cfg`。
-3. 切換語言，詳見[切換語言](#切換語言)。
-
 
 ## 切換語言
 1. 開啟`{遊戲安裝路徑}/English/buildID64.txt`，預設檔案結構如下：
-```txt
+```
 [config]
 build id = 03190
 2022.12.12 at 14:02:28 PST
@@ -34,8 +32,6 @@ distribution name = Store
 ![EpicGamesManageInstallPath.png](/img/EpicGamesManageInstallPath.png)
 此資料夾之路徑即為遊戲的安裝路徑。
 ![EpicGamesManageOpenInstallPath.png](/img/EpicGamesManageOpenInstallPath.png)
-
-
 
 ### 支援的語言
 |語言|代碼|來源|
