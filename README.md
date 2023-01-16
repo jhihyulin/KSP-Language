@@ -6,7 +6,7 @@ Kerbal Space Program 的多語言包
 由於Epic Games未提供任何語言選項，原版中僅有英文(en-us)，所以我將來自其他地方的語言包整合成一個檔案，方便玩家切換。
 
 ## 下載
-[點此下載最新版本](/releases/latest/download/KSP-Language.zip)
+[點此下載最新版本](https://github.com/jhihyulin/KSP-Language/releases/latest/download/KSP-Language.zip)
 
 ## 安裝
 1. 先取得遊戲的安裝路徑，詳見[遊戲安裝路徑](#遊戲安裝路徑)。
