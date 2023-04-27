@@ -1,7 +1,7 @@
 # KSP-Language
 Kerbal Space Program 的多語言包
 
-> 此儲存庫僅適用於自Epic Games取得的遊戲
+> 此說明文件僅適用於自Epic Games取得的遊戲
 
 由於Epic Games未提供任何語言選項，原版中僅有英文(en-us)，所以我將來自其他地方的語言包整合成一個檔案，方便玩家切換。
 
